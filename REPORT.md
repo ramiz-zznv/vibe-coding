@@ -1,12 +1,12 @@
-University: [ITMO University](https://itmo.ru/ru/)
-Faculty: [FTMI]
-Course: [Vibe Coding: AI-боты для бизнеса](https://github.com/itmo-ict-faculty/vibe-coding-for-business)
-Year: 2025/2026
-Group: U4225
-Author: Ziyazetdinov Ramiz Rustemovich
-Lab: Lab1
-Date of create: 06.11.2025
-Date of finished: 07.11.2025
+**University:** [ITMO University](https://itmo.ru/ru/)  
+**Faculty:** FTMI  
+**Course:** [Vibe Coding: AI-боты для бизнеса](https://github.com/itmo-ict-faculty/vibe-coding-for-business)  
+**Year:** 2025/2026  
+**Group:** U4225  
+**Author:** Ziyazetdinov Ramiz Rustemovich  
+**Lab:** Lab1  
+**Date of create:** 06.11.2025  
+**Date of finished:** 07.11.2025
 
 
 ## 1. Описание задачи
@@ -111,5 +111,6 @@ Date of finished: 07.11.2025
 - Планирование задач и напоминаний через JobQueue  
 - Обработка дат с парсингом из текста и часовыми поясами  
 - Отладка и устранение проблем с callback и базой данных SQLite  
+
 
 
